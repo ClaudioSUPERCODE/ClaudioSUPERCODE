@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Claudio</h1>
 <h3 align="center">A passionate junior frontend developer</h3>
 
-- 📫 How to reach me **claudioaleo87@gmail.com**
+- 📫 How to reach me **claudiosupercode@gmail.com** / **claudioaleo87@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
